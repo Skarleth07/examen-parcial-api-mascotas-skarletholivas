@@ -3,7 +3,7 @@ const config = {
       /* don't expose password or any sensitive info, done only for demo */
       host: "localhost",
       user: "root",
-      password: "rubiofer50",
+      password: "123456789",
       database: "eventos",
     },
     listPerPage: 10,
